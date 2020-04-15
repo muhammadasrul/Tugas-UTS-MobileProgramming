@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TugasUTS</string>
+    <string name="name">Muhammad Asrul Aji\nPangestu</string>
+    <string name="title">TUGAS UTS</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="mobile_programming">\"Mobile Programming\"</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="date">23–02–1999</string>
+    <string name="number">085889227310</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address_">Address</string>
+    <string name="address">Ds. Kalisari, Kab. Batang</string>
+    <string name="github">GitHub</string>
+    <string name="date_icon">date icon</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="address_icon">address icon</string>
+    <string name="line">line</string>
+</resources>
